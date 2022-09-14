@@ -66,43 +66,12 @@ body{
 img{
     width: 15rem;
     height: 14rem;
- border: 1px solid;
 }
 
 
 
 @media screen and (max-width: 1110px){
-    
-.mainsearch{
-    padding: 0 1rem;
-}
-
-input{
-    width: 15rem;
-}
-
-.filtercontainer{
-    padding: 1rem;
-}
-
-label{
-    font-size: 1rem;
-}
-
-select{
-    padding: 1rem 0;
-    font-size: 0.8rem;
-}
-
-
-option{
-    margin: 2rem 0;
-}
-
-.maincarddiv img{
-    width: 11rem;
-    height: 10rem;
-}
+  
 }
 
 
