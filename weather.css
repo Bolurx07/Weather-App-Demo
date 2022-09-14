@@ -10,6 +10,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: normal;
     background-color:#24353E ;
+    padding: 1rem 0;
 }
 
     /* Header & Text Animation */
@@ -59,7 +60,7 @@ body{
 .cardiv1 p{
     font-weight: 300;
     font-size: 1.5rem;
-    line-height: 3.5rem;
+    line-height: 3.25rem;
 }
 
     /* Weather Icon */
